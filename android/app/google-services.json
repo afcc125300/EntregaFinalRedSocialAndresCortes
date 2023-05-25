@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1055456354041",
+    "project_id": "testvirtualmachinedevicefarm",
+    "storage_bucket": "testvirtualmachinedevicefarm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055456354041:android:765b4bca8d3b8ff24e4c28",
+        "android_client_info": {
+          "package_name": "com.example.thewalltute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055456354041-ve53p52bflorkih15rn99nh5gqu7gevg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa0Bc2x_CI0XzOGrNir2xPHvPxhTI9Uqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055456354041-d17b35ijqo6ocgmtqduu850kc7dfrfge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1055456354041-7p5vj8j14n33gm193bftce627643p2sd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.andres.testvirtualmachinedevicedfarm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
